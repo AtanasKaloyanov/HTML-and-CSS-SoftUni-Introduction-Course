@@ -1,0 +1,4 @@
+tr:nth-child(2n) {
+    background: #95313b;
+    color: #fff;
+}
